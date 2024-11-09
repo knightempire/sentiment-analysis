@@ -1,10 +1,12 @@
 # Sentiment Analysis Project
 
 ### Contributors
-- Abinesh T, CB.EN.U4CSE21302
-- Kaviswar R, CB.EN.U4CSE21345
-- Leonal Robin D, CB.EN.U4CSE21331
-- Tricia Ezhilarasi J, CB.EN.U4CSE21265
+| **Name**                 | **Roll No**        | **Contribution (Model)** |
+|--------------------------|--------------------|--------------------------|
+| Abinesh T                | CB.EN.U4CSE21302   | AlexNet                  |
+| Kaviswar R               | CB.EN.U4CSE21345   | LeNet                    |
+| Leonal Robin D           | CB.EN.U4CSE21331   | DenseNet                 |
+| Tricia Ezhilarasi J      | CB.EN.U4CSE21265   | CNN Custom               |
 
 ## Problem Statement
 
